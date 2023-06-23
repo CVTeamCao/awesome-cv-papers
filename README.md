@@ -10,9 +10,9 @@
 [[Science Direct]](https://www.sciencedirect.com/)
 # Paper
 ## backbone
-[CVPR 2023] VanillaNet: the Power of Minimalism in Deep Learning [[pdf]](https://arxiv.org/abs/2305.12972), CVPR 2023 [[code]](https://github.com/huawei-noah/vanillanet)
+[CVPR 2023] VanillaNet: the Power of Minimalism in Deep Learning, CVPR 2023 [[pdf]](https://arxiv.org/abs/2305.12972) [[code]](https://github.com/huawei-noah/vanillanet)
 ## MLP
-An Image Patch is a Wave: Phase-Aware Vision MLP, CVPR 2022 [[pdf]](https://arxiv.org/abs/2111.12294) [[code_01]](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)  [[code_02]](https://gitee.com/mindspore/models/tree/master/research/cv/wave_mlp)  
+[CVPR 2022] An Image Patch is a Wave: Phase-Aware Vision MLP, CVPR 2022 [[pdf]](https://arxiv.org/abs/2111.12294) [[code_01]](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)  [[code_02]](https://gitee.com/mindspore/models/tree/master/research/cv/wave_mlp)  
 ## attention
 Neural Machine Translation by Jointly Learning to Align and Translate, 2016 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
 ## transformer
@@ -21,7 +21,7 @@ Attention Is All You Need, 2017 [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
 Parameterizing homographies, 2006 [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/baker_simon_2006_1/baker_simon_2006_1.pdf)
 ## bev
 Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D, ECCV 2020 [[pdf]](https://arxiv.org/pdf/2008.05711.pdf) [[code]](https://github.com/nv-tlabs/lift-splat-shoot)  
-BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, 2022 [[pdf]](https://arxiv.org/pdf/2203.17270.pdf) [[code]](https://github.com/zhiqi-li/BEVFormer)   
+[ECCV 2022] BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, ECCV 2022 [[pdf]](https://arxiv.org/pdf/2203.17270.pdf) [[code]](https://github.com/zhiqi-li/BEVFormer)   
 ## lane detection
 [CVPR 2023] BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline, CVPR 2023 [[pdf]](https://arxiv.org/abs/2210.06006) [[code]](https://github.com/gigo-team/bev_lane_det)
 ## occupancy
