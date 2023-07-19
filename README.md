@@ -7,7 +7,7 @@
 [[ICLR 2023]](https://openreview.net/group?id=ICLR.cc/2023/Conference)  
 # Bibliographic Database
 [[Arxiv]](https://arxiv.org/)  
-[[Top Arxiv]]([https://arxiv.org/](https://scirate.com/))  
+[[Top Arxiv]](https://scirate.com/)  
 
 [[Science Direct]](https://www.sciencedirect.com/)
 # Paper
