@@ -28,7 +28,7 @@ Attention Is All You Need, 2017 [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
 Parameterizing homographies, 2006 [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/baker_simon_2006_1/baker_simon_2006_1.pdf)
 
 ## Bev
-Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D, ECCV 2020 [[pdf]](https://arxiv.org/pdf/2008.05711.pdf) [[code]](https://github.com/nv-tlabs/lift-splat-shoot)  
+[[ECCV 2020]] Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D, ECCV 2020 [[pdf]](https://arxiv.org/pdf/2008.05711.pdf) [[code]](https://github.com/nv-tlabs/lift-splat-shoot)  
 [ECCV 2022] BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, ECCV 2022 [[pdf]](https://arxiv.org/pdf/2203.17270.pdf) [[code]](https://github.com/zhiqi-li/BEVFormer)   
 
 ## Lane Detection
